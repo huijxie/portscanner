@@ -1,4 +1,5 @@
-# A Python port scanner code
+# creating-socket
+
 import socket # for socket 
 import sys 
  
@@ -23,3 +24,4 @@ except socket.gaierror:
 s.connect((host_ip, port)) 
  
 print ("the socket has successfully connected to Tesla") 
+
