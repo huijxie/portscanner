@@ -1,2 +1,3 @@
 # portscanner
-Port scanner in Python
+Socket creation using Python
+
